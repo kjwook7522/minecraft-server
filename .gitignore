@@ -1,0 +1,40 @@
+# IDE 관련
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# OS 관련
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 빌드 결과물
+dist/
+build/
+*.log
+logs/
+tmp/
+temp/
+
+# GCP 인증 파일
+credentials.json
+
+# 테스트 관련
+coverage/
+
+# 기타
+*.bak
+*.tmp
+*.temp
+.cache/
+.history/ 

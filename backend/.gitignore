@@ -1,0 +1,22 @@
+# 설정 파일
+*.toml
+!*.sample.toml
+
+# Go 관련
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+
+# IDE 관련
+.idea/
+.vscode/
+*.swp
+*.swo 
+
+# OS X 관련
+.DS_Store

@@ -1,0 +1,6 @@
+[gcp]
+project_id = "your-project-id"        # GCP 프로젝트 ID
+zone = "asia-northeast3-a"            # GCP 리전
+instance_name = "minecraft-server"    # 생성할 인스턴스 이름
+machine_type = "e2-medium"            # 인스턴스 타입
+disk_size_gb = 30                     # 디스크 크기 (GB) 
